@@ -13,7 +13,7 @@ export default function Home() {
 
       <p>If you can see this page, deployment is successful.</p>
 
-      <p>Version: 1.0.1</p>
+      <p>Version: 1.0.2</p>
     </main>
   );
 }
