@@ -11,7 +11,7 @@ export default function Home() {
     >
       <h1>🚀 Next.js CI/CD Demo</h1>
 
-      <p>If you can see this page, deployment is successful.</p>
+      <p>If you can see this page, deployment is successful. In Staging</p>
 
       <p>Version: 1.0.0</p>
     </main>
